@@ -7,6 +7,6 @@
     <title>Banque et Assurances | Site Officiel</title>
 </head>
     <body>
-        <h4> Your credentials have been stolen!!!</h4>
+        <h4> Please wait a few moment !!!</h4>
     </body>
     </html>
